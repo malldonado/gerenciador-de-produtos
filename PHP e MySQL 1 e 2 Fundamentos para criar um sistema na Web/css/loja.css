@@ -1,0 +1,44 @@
+
+
+.principal{
+    padding: 100px 0px;
+    text-align: center;
+}
+
+
+.logo{
+  width: 30%;
+}
+
+.navbar{
+  background-color: #000;
+  height: 7%;
+}
+
+
+.navbar-brand{
+  color: #fff;
+
+}
+
+
+
+.information-footer{
+  text-align: center;
+}
+
+.title-shop{
+  text-align: center;
+}
+
+#form-control{
+  margin: 0;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 29%;
+
+}
+
+.btn-outline-dark{
+  margin-right: 1%;
+}
